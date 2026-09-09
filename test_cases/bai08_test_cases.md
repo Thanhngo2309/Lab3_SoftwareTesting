@@ -12,6 +12,7 @@ Ví dụ `n = 4`:
 
 ## 2. Đầu vào và đầu ra
 
+
 - Input: `n`, số nguyên.
 - Điều kiện hợp lệ: `n >= 1`.
 - Output: tổng các giai thừa.

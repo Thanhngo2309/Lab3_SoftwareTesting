@@ -19,6 +19,7 @@ Quy ước: không xác định UCLN khi `a = 0` và `b = 0`.
 
 ## 3. Phân tích giá trị biên
 
+
 Các biên quan trọng: `a = 0`, `b = 0`, `(a,b) = (0,0)`.
 
 ## 4. Test case

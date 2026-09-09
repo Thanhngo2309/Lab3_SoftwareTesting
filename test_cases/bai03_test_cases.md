@@ -26,6 +26,7 @@ Tính `Δ = b² - 4ac`.
 
 ## 3. Phân tích giá trị biên
 
+
 Hai biên quan trọng:
 
 - `a = 0`.

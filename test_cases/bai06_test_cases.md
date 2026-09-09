@@ -21,6 +21,7 @@ Quy ước `n >= 1`.
 
 ## 3. Phân tích giá trị biên
 
+
 Biên là `n = 1`; kiểm tra `0`, `1`, `2`.
 
 ## 4. Test case

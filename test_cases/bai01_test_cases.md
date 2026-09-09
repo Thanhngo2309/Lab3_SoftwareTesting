@@ -15,7 +15,8 @@ Trong đó `a` là độ dài cạnh hình vuông.
 - Output: `P = 4 × a`.
 - Nếu `a <= 0` hoặc không phải số: báo dữ liệu không hợp lệ.
 
-## 3. Phân lớp tương đương
+## 3. Phân lớp tương đương 
+
 
 | Lớp | Điều kiện | Loại |
 |---|---|---|

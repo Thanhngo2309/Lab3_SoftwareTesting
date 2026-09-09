@@ -6,7 +6,7 @@ Tính diện tích hình chữ nhật:
 
 **S = dài × rộng**
 
-## 2. Đầu vào và đầu ra
+## 2. Đầu vào và đầu ra 
 
 - Input: `dai`, `rong`.
 - Điều kiện hợp lệ: `dai > 0` và `rong > 0`.

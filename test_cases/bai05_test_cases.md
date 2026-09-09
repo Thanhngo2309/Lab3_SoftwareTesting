@@ -41,4 +41,5 @@ Các giá trị quanh mốc 2: `1`, `2`, `3`, `4`.
 
 ## 6. Tiêu chí PASS/FAIL
 
+
 PASS nếu chương trình phân loại đúng số nguyên tố/hợp số và xử lý dữ liệu âm đúng specification.
